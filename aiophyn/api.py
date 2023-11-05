@@ -24,9 +24,9 @@ DEFAULT_HEADER_API_KEY: str = "E7nfOgW6VI64fYpifiZSr6Me5w1Upe155zbu4lq8"
 DEFAULT_HEADER_ACCEPT: str = "application/json"
 DEFAULT_HEADER_ACCEPT_ENCODING: str = "gzip, deflate, br"
 
-COGNITO_REGION: str = "us-east-1"
-COGNITO_POOL_ID: str = "us-east-1_UAv6IUsyh"
-COGNITO_CLIENT_ID: str = "5q2m8ti0urmepg4lup8q0ptldq"
+COGNITO_REGION: str = "us-east-2"
+COGNITO_POOL_ID: str = "us-east-2_jWiJepO0F"
+COGNITO_CLIENT_ID: str = "55bmqg1suas61o2hdbmpmh9u7k"
 
 DEFAULT_TIMEOUT: int = 10
 
